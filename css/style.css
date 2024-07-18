@@ -1108,6 +1108,10 @@ ul.slides li {
 	background-position:200px 10px;
 	height: 100%;
 }
+
+.error {
+	color: red;
+}
 /* ==========================================================================Responsive========================================================================== */
 /* 320px (iPhone) */
 @media screen and (max-width:414px) {
